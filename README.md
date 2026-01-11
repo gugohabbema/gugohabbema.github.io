@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="./hugo.jpeg" alt="Hugo Habbema" width="180"/>
+</p>
+
 #  Hugo Celso Habbema de Maia Neto
 
 **Arquiteto e Engenheiro de Dados | Big Data | Cloud | Observabilidade | IA aplicada a Dados**
